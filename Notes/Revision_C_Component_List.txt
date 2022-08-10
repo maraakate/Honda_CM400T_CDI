@@ -1,0 +1,45 @@
+C1 - 2.2uF 400V
+C2 - NC
+C3 - 0.47uF 400V
+C4 - 0.1uF 50V
+C5 - 0.1uF 400V
+
+TH1 - 351 ohm
+R1 - 82 ohm
+R2 - NC
+R3 - NC
+R4 - 1.8 KOhm
+R5 - 2.7 KOhm
+R6 - NC
+R7 - 68 KOhm
+R8 - 1 KOhm
+R9 - 1 KOhm
+R10 - 560 ohm
+R11 - 470 ohm
+R12 - 1 MOhm / 1000 KOhm
+R13 - 1 MOhm / 1000 KOhm
+R14 - 1 MOhm / 1000 KOhm
+R15 - 1.2 KOhm
+
+D1 - 1N4004
+D2 - 1N4004
+D3 - 1N4004
+D4 - 1N4002
+D5 - 1N4002
+D6 - 1N4002
+D7 - 1N4002
+D8 - 1N4004
+D9 - 1N4002
+
+SCR1 - 5P4M / BT151-500R,127
+SCR2 - 2P4M / TS420-600T
+
+P1 - Brown
+P2 - Green Coil
+P3 - Black w/ White
+P4 - Yellow Coil
+P5 - Blue
+P6 - White
+P7 - Light Blue
+P8 - Green Harness
+P9 - Pink
