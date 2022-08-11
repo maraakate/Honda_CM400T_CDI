@@ -1204,7 +1204,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6d8ccdef-5629-493e-bb9d-440b3240925a)
     )
-    (fp_text value "0.47uF 400V" (at 2.5 2.5) (layer "F.Fab")
+    (fp_text value "0.047uF 400V" (at 2.5 2.5) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 210bf857-98f3-469a-89dd-2b614d1da447)
     )
