@@ -1,0 +1,32 @@
+Coil PVC 6mm - 3 1/4"
+Green Coil - 7 3/4"
+Yellow Coil - 7 1/4"
+
+-------------------------------
+
+Blue and White PVC 6mm - 2 1/2"
+Blue - 27 3/8"
+White 27 1/4"
+
+-------------------------------
+
+Alternator PVC 8mm (Matt doesn't have this size but I use 6mm on the CM400A harness and it fits fine) - 8 1/4"
+CDI PVC 9mm - 21"
+Black w/ White hole location in CDI PVC - 3 1/4"
+Black w/ White - 7 1/4"
+Sky Blue - 32 3/4"
+Pink - 32 3/4"
+Green Harness 32 3/4"
+Brown - 33 1/2"
+
+-------------------------------
+
+Yellow/Green Coil Connector - Female Latched 6.3mm 2-pin Yellow is Pin 1
+Blue/White Connector - Female Latched 6.3mm 2-pin Blue is Pin 1
+Brown/Green/Sky Blue/Pink Connector - Male Latched 6.3mm 6-pin - Brown is Pin 1, Green is Pin 2, Pin 3 and 4 NC, Sky Blue Pin 5, Pink Pin 6.
+Black/White - Female Bullet 3.5mm
+
+Grommet positions (from left to right)
+Row 1 - Brown, Black/White, White, Green Harness
+Row 2 - Blue
+Row 3 - Green Coil, Yellow Coil, Sky Blue, Pink 
