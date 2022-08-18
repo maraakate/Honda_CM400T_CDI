@@ -1475,7 +1475,7 @@
     (property "Value" "0.047uF 400V" (id 1) (at 231.14 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal" (id 2) (at 228.2952 83.82 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm" (id 2) (at 228.2952 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.33 80.01 0)
@@ -1596,7 +1596,7 @@
       (reference "C1") (unit 1) (value "2.2uF 400V") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal")
     )
     (path "/e18590c8-6097-4b9f-9f2f-2ae501932ff1"
-      (reference "C3") (unit 1) (value "0.047uF 400V") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal")
+      (reference "C3") (unit 1) (value "0.047uF 400V") (footprint "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm")
     )
     (path "/3add7e5a-b71d-44f3-811e-d3102d54509d"
       (reference "C4") (unit 1) (value "0.1uF 50V") (footprint "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm")
