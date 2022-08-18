@@ -1333,7 +1333,7 @@
     (property "Value" "MountingHole" (id 1) (at 105.41 36.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (id 2) (at 102.87 35.56 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 102.87 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.87 35.56 0)
@@ -1475,7 +1475,7 @@
     (property "Value" "0.047uF 400V" (id 1) (at 231.14 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm" (id 2) (at 228.2952 83.82 0)
+    (property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal" (id 2) (at 228.2952 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.33 80.01 0)
@@ -1513,7 +1513,7 @@
     (property "Value" "MountingHole" (id 1) (at 105.41 46.9899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (id 2) (at 102.87 45.72 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (id 2) (at 102.87 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.87 45.72 0)
@@ -1596,7 +1596,7 @@
       (reference "C1") (unit 1) (value "2.2uF 400V") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal")
     )
     (path "/e18590c8-6097-4b9f-9f2f-2ae501932ff1"
-      (reference "C3") (unit 1) (value "0.047uF 400V") (footprint "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm")
+      (reference "C3") (unit 1) (value "0.047uF 400V") (footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal")
     )
     (path "/3add7e5a-b71d-44f3-811e-d3102d54509d"
       (reference "C4") (unit 1) (value "0.1uF 50V") (footprint "Capacitor_THT:C_Disc_D9.0mm_W2.5mm_P5.00mm")
@@ -1635,10 +1635,10 @@
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
     )
     (path "/9f6a83ab-3cb8-4a03-abd1-9ffef32bdb7b"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/ed0845bc-19b4-4e04-8162-7f1a98998dd2"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/9994ca98-b448-4de0-8b24-3f3e93915cb8"
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
