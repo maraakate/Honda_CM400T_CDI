@@ -3,7 +3,8 @@ Reverse Engineering of the 1978-1983 Hondamatic CB400T, CM400T and CM450T CDI
 
 Schematic and PCB layout are in KiCAD format.
 
-NOT YET TESTED ON A REAL BIKE.
+CDI PCB has been tested and confirmed working: \
+https://youtu.be/4rw3liYhtpE?t=53
 
 For kit builders: \
 The following case will mount to the frame from the left mounting \
