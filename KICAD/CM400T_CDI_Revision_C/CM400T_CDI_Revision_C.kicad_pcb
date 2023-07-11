@@ -1278,9 +1278,9 @@
     (fp_line (start 4.35 1.3) (end 31.75 1.3) (layer "F.Fab") (width 0.1) (tstamp 8be87a0d-1f7c-428d-94ae-ffbc86511463))
     (fp_line (start 34.29 0) (end 31.75 0) (layer "F.Fab") (width 0.1) (tstamp bcce2f9b-6721-4196-8c10-a2c6ecaec59e))
     (fp_line (start 31.75 -1.3) (end 4.35 -1.3) (layer "F.Fab") (width 0.1) (tstamp d2898aa5-860e-4e74-a372-5df6b936c862))
-    (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 4 "Net-(C1-Pad1)") (pintype "passive") (tstamp 97c6b08d-ae1c-4ddf-9f9d-39d5c5df11de))
-    (pad "2" thru_hole oval (at 34.925 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
+    (pad "2" thru_hole circle (at 34.925 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 8 "Net-(C1-Pad2)") (pintype "passive") (tstamp 6f71a663-ab43-4e48-b2c2-2460260caf2f))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
