@@ -3,7 +3,7 @@ Reverse Engineering of the 1978-1983 CB400T, CM400T and CB450SC CDI
 
 Schematic and PCB layout are in KiCAD format.
 
-Complete units available at [Hondamatic Parts](https://cm400a.nightgrease.net/)
+Complete units available at [Hondamatic Parts](https://www.hondamaticparts.com/)
 
 CDI PCB has been tested and confirmed working: \
 https://youtu.be/4rw3liYhtpE?t=53
